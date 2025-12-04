@@ -2,12 +2,14 @@
 50 + 12; // Expression
 
 //Exercise #4: What is Expression Start coding here
-130 + 300;
-let zero = 1000 - 1000;
-20 * 120;
-1000 / 2;
-typeof true;
+
+130 + 300; // Expreessions
+let zero = 1000 - 1000; //
+20 * 120; // Expreessions
+1000 / 2; // Expreessions
+typeof true; // Expreessions
 let name = "John";
-3 > 5;
-10 == 100;
-200;
+3 > 5; // Expreessions
+10 == 100; // Expreessions
+200; // Expreessions
+
