@@ -8,6 +8,6 @@ let zero = 1000 - 1000;
 1000 / 2; // Expression
 typeof true;
 let name = "John";
-3 > 5;
-10 == 100;
-200;
+3 > 5; // Expression
+10 == 100; // Expression
+200; // Expression
